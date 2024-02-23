@@ -41,7 +41,7 @@
 }
 .Content {
   background-color: aliceblue;
-  color: black;
+  color: red;
   font-style: italic;
   height: 400px;
   overflow: auto;
